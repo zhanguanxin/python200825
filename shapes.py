@@ -65,4 +65,4 @@ def countdown(t):
         time.sleep(1)
         t -= 1
 
-countdown(100)
+countdown(80)
